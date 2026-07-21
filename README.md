@@ -4,6 +4,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-lakshyarathi-blue?logo=kaggle)](https://www.kaggle.com/lakshyarathi)
 [![Dataset](https://img.shields.io/badge/Dataset-lungpp-success?logo=kaggle)](https://www.kaggle.com/datasets/lakshyarathi/lungpp)
 
+**Live app:** [https://lakshyalol-fake-dataset-factory.hf.space](https://lakshyalol-fake-dataset-factory.hf.space)
+
 > Generate labeled synthetic chest X-rays using 6 generative architectures spanning 2014–2022.
 > Evaluate each model individually. Export a usable dataset. Compare them honestly.
 
